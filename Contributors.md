@@ -1863,13 +1863,11 @@
 - [Chaitanya Phanichalla](https://github.com/chaitanyaiscoding)
 - [Adarsh](https://github.com/adarsh-0024)
 - [Umer Amin](https://github.com/umer-amin)
-<<<<<<< HEAD
 - [Dilruba](https://github.com/dilrubasaran)
-=======
 - [Rodrigo Avino](https://github.com/rodrigoavino)
 - [ESSEDD](https://github.com/ESSEDD)
 - [Balasurya S](https://github.com/SBalasuryas)
 - [Jake S](https://github.com/jakedevsthings)
 - [Sunil Kumar](https://github.com/sunilkumar2170)
 - [Burak Teke](https://github.com/buraktke)
->>>>>>> b034663b23b5a789712618e41270c285b1761f21
+
